@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/vitko-swe.github.io/ppl-finder/static/js/main.d86e9f00.chunk.js",
+    "main.js.map": "/vitko-swe.github.io/ppl-finder/static/js/main.d86e9f00.chunk.js.map",
+    "runtime-main.js": "/vitko-swe.github.io/ppl-finder/static/js/runtime-main.0c548cd7.js",
+    "runtime-main.js.map": "/vitko-swe.github.io/ppl-finder/static/js/runtime-main.0c548cd7.js.map",
+    "static/js/2.fe6ae1a9.chunk.js": "/vitko-swe.github.io/ppl-finder/static/js/2.fe6ae1a9.chunk.js",
+    "static/js/2.fe6ae1a9.chunk.js.map": "/vitko-swe.github.io/ppl-finder/static/js/2.fe6ae1a9.chunk.js.map",
+    "index.html": "/vitko-swe.github.io/ppl-finder/index.html",
+    "static/js/2.fe6ae1a9.chunk.js.LICENSE.txt": "/vitko-swe.github.io/ppl-finder/static/js/2.fe6ae1a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c548cd7.js",
+    "static/js/2.fe6ae1a9.chunk.js",
+    "static/js/main.d86e9f00.chunk.js"
+  ]
+}
