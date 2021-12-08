@@ -8,7 +8,7 @@ import Favorites from "pages/Favorites/Favorites";
 const AppRouter = () => {
   return (
     <ThemeProvider>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <NavBar />
         <Switch>
           <Route exact path="/" component={Home} />
