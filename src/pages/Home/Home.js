@@ -15,7 +15,7 @@ const Home = () => {
             PplFinder
           </Text>
         </S.Header>
-        <UserList users={users} isLoading={isLoading} />
+        <UserList users={users} isLoading={isLoading} isFavorites={false}/>
       </S.Content>
     </S.Home>
   );
