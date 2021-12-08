@@ -1,6 +1,6 @@
 {
   "name": "ppl-finder",
-  "homepage": "http://Vitko-SWE.github.io/Pplfinder",
+  "homepage": "http://Vitko-SWE.github.io/PplFinder",
   "version": "1.0.7",
   "bin": "./bin/cli.js",
   "license": "MIT",
