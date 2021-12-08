@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/Pplfinder/static/js/main.f5b25315.chunk.js",
-    "main.js.map": "/Pplfinder/static/js/main.f5b25315.chunk.js.map",
+    "main.js": "/Pplfinder/static/js/main.41572338.chunk.js",
+    "main.js.map": "/Pplfinder/static/js/main.41572338.chunk.js.map",
     "runtime-main.js": "/Pplfinder/static/js/runtime-main.a90cd58b.js",
     "runtime-main.js.map": "/Pplfinder/static/js/runtime-main.a90cd58b.js.map",
-    "static/js/2.9d4d2409.chunk.js": "/Pplfinder/static/js/2.9d4d2409.chunk.js",
-    "static/js/2.9d4d2409.chunk.js.map": "/Pplfinder/static/js/2.9d4d2409.chunk.js.map",
+    "static/js/2.7406dd78.chunk.js": "/Pplfinder/static/js/2.7406dd78.chunk.js",
+    "static/js/2.7406dd78.chunk.js.map": "/Pplfinder/static/js/2.7406dd78.chunk.js.map",
     "index.html": "/Pplfinder/index.html",
-    "static/js/2.9d4d2409.chunk.js.LICENSE.txt": "/Pplfinder/static/js/2.9d4d2409.chunk.js.LICENSE.txt"
+    "static/js/2.7406dd78.chunk.js.LICENSE.txt": "/Pplfinder/static/js/2.7406dd78.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a90cd58b.js",
-    "static/js/2.9d4d2409.chunk.js",
-    "static/js/main.f5b25315.chunk.js"
+    "static/js/2.7406dd78.chunk.js",
+    "static/js/main.41572338.chunk.js"
   ]
 }
